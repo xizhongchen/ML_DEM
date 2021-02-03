@@ -5,6 +5,9 @@ This code dealed with the prediction of Neural network DEM after training
 Only need the initial particle position information
 The full traning algorithm will be published later
 @author: Xizhong.Chen@ucc.ie or suningchen@gmail.com
+You need to first install the tensorflow package
+conda install tensorflow
+pip install pandas sklearn nodepy
 """
 
 import numpy as np
